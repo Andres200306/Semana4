@@ -1,0 +1,13 @@
+Las comunidades y las iniciativas ciudadanas necesitan herramientas tecnológicas propias para resolver problemas locales de manera más cercana y efectiva.
+
+Utilizar tecnologías abiertas como Node.js permite que más personas puedan aprender, adaptar y mejorar estas herramientas sin depender de plataformas cerradas.
+
+Esto fomenta la participación digital, la transparencia y la autonomía de los colectivos.
+
+Además, al construir soluciones propias, se fortalece la innovación social y se reduce la brecha tecnológica.
+
+También ayuda a que las ideas de la comunidad se conviertan en productos reales y útiles para la sociedad.
+
+Node.js, junto con herramientas como Express, ofrece un camino accesible para crear servicios simples y funcionales.
+
+Por eso, el uso de tecnologías abiertas es una oportunidad para empoderar a las personas y desarrollar soluciones con impacto comunitario.
